@@ -22,7 +22,7 @@ width: 1280px;
    width: 980px;
   text-align: center;
   margin: 0 auto;
-  border: 2px solid red;
+  
 }
 
 
@@ -75,7 +75,7 @@ display: flex;
     width: 444px;
     height: 304px;
     left: 444px;
-    top: 501px;
+    top: 520px;
     
 }
 .pic3
@@ -603,10 +603,11 @@ color: #000000;
     position: absolute;
 left: 3.44%;
 right: 93.35%;
-top: 94.11%;
+top: 87%;
 bottom: 2.18%;
 width: 41.08px;
 height:30.86px;
+z-index: 3;
 }
 
 .designs1{
@@ -841,12 +842,13 @@ color: #000000;
 
 .arrow7{
     position: absolute;
-left: 2.73%;
-right: 94.06%;
-top: 2.4%;
-bottom: 93.89%;
-width: 41.08px;
-height:30.86px;
+    width: 58px;
+    height: 61px;
+    left: 26px;
+    top: 8px;
+    z-index: +3;
+    width: 41.08px;
+height:30.86px; 
 }
 
 .artisticpic1{
